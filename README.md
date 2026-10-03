@@ -1,4 +1,4 @@
-# 🔤 Word Guessing Game
+# Word Guessing Game
 
 A command-line word guessing game written in Python. The game greets you by name, picks a random word, and you guess it one character at a time. You can make 12 wrong guesses before you lose.
 
